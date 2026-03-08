@@ -3,8 +3,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ameet_Kumar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ameetkumar48/)
 [![Email](https://img.shields.io/badge/Email-ameet1308@gmail.com-orange?style=flat&logo=gmail)](mailto:ameet1308@gmail.com)
 
-A modern, responsive professional portfolio for **Ameet Kumar**, showcasing a unique blend of expertise in **Quality Assurance Engineering**, **Data Analytics**, and **Human Resources**. Designed with a sleek cosmic theme, glassmorphism elements, and smooth scroll animations.
+I am a professional with over 1 year of experience in website testing, specializing in functional testing, confirmation testing, and test case creation. 
+Currently, I work as a Website and Mobile Tester at Verior.io, ensuring the quality and reliability of web applications by executing detailed regression tests and partnering with developers.
 
+In addition my background in Human Resources and Data Analytics gives me a unique ability to bridge business needs with technical solutions. 
+I combine analytical thinking with a keen eye for detail to deliver results that improve platform performance and user experience.
 ---
 
 ## 🚀 Key Features
@@ -68,12 +71,8 @@ A dynamic Power BI dashboard for monitoring employee metrics and productivity tr
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 - **LinkedIn**: [ameetkumar48](https://www.linkedin.com/in/ameetkumar48/)
 - **Email**: [ameet1308@gmail.com](mailto:ameet1308@gmail.com)
 - **Location**: Pakistan (Remote Ready)
-
----
-
-Developed with ❤️ by Ameet Kumar.
